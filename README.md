@@ -14,7 +14,6 @@
 - **TanStack Query** - データフェッチング
 - **shadcn/ui** - UIコンポーネント
 - **Tailwind CSS 4** - ユーティリティファーストCSS
-- **next-themes** - ダークモード対応
 
 ### バックエンド
 
