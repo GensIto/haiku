@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761057359464,
+      "tag": "0000_outstanding_vin_gonzales",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1761403822648,
+      "tag": "0001_fluffy_amphibian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1761463979613,
+      "tag": "0002_careless_luke_cage",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1761481030325,
+      "tag": "0003_ambitious_rick_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1763034885362,
+      "tag": "0004_high_captain_flint",
+      "breakpoints": true
+    }
+  ]
+}
